@@ -1,1 +1,1 @@
-# e-Mail-Spam-Classifier
+# Classify spam and non spam sms and e-mails.
